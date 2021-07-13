@@ -2,6 +2,9 @@
 
 테네시 오픈 파일럿 도움말 - 브랜치의 포크는 NeoKii 교주사마님의 기본 포크를 기반으로 합니다..
 
+- 윈플러스3T EON폰으로 086사용하기 순서는 특정주소의 깃을 설치하고 (비공개) 재부팅하기전에
+  cd /data/openpilot/scripts/ && ./update_op.sh 명령을 실행하고 그것에 따라서 설치한다!
+
 21년 07월 06일 업데이트 내용 일부 설명..
 [![](http://drive.google.com/uc?export=view&id=1hL0i6yiO2y5guzUY43wJ7vcj3V_1NFIk)](#)
 - Prebuilt 파일생성 - 이건 모든 셋팅이 완료되고 빠른 부팅을 할때에 사용됩니다..주 기능은 빌드작업을 생략 개념이고 일부 강제 빌드는 무조건 빌드합니다..
