@@ -6,7 +6,7 @@
   cd /data/openpilot/scripts/ && ./update_op.sh 명령을 실행하고 그것에 따라서 설치한다!
 
 220606-SSH접속 공용키 다운로드 
-- https://drive.google.com/file/d/16k1EVQ9swEIfeJntFGcJ2AnMr9WQbOKP/view?usp=sharing
+- http://naver.me/GazEhNxz
 
 21년 07월 06일 업데이트 내용 일부 설명..
 [![](http://drive.google.com/uc?export=view&id=1hL0i6yiO2y5guzUY43wJ7vcj3V_1NFIk)](#)
