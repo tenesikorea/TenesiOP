@@ -5,6 +5,9 @@
 - 윈플러스3T EON폰으로 086사용하기 순서는 특정주소의 깃을 설치하고 (비공개) 재부팅하기전에
   cd /data/openpilot/scripts/ && ./update_op.sh 명령을 실행하고 그것에 따라서 설치한다!
 
+22028-C2용 엔튠 업로드
+- https://github.com/tenesikorea/TenesiOP/raw/master/nTune-1.6.4.apk
+
 220606-SSH접속 공용키 다운로드 
 - http://naver.me/GazEhNxz
 
