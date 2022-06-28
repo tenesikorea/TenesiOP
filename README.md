@@ -9,6 +9,7 @@
 - https://github.com/tenesikorea/TenesiOP/raw/master/nTune-1.6.4.apk
 
 220606-SSH접속 공용키 다운로드 
+- https://downgit.github.io/#/home?url=https://github.com/tenesikorea/TenesiOP/blob/master/eonkey.ppk
 - http://naver.me/GazEhNxz
 
 21년 07월 06일 업데이트 내용 일부 설명..
